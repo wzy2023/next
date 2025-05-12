@@ -1,1 +1,6 @@
-{"type": "commonjs"}
+{
+  "scripts": {
+    "start": "cd ./standalone/persons/app && node server.js"
+  },
+  "type": "commonjs"
+}
