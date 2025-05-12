@@ -1,0 +1,21 @@
+{
+  "/api/auth/[...nextauth]/route": "/api/auth/[...nextauth]",
+  "/api/trpc/[trpc]/route": "/api/trpc/[trpc]",
+  "/_not-found/page": "/_not-found",
+  "/auth/error/page": "/auth/error",
+  "/auth/new-user/page": "/auth/new-user",
+  "/auth/signin/page": "/auth/signin",
+  "/auth/unauthorized/page": "/auth/unauthorized",
+  "/buttons/[[...rest]]/page": "/buttons/[[...rest]]",
+  "/collecting/page": "/collecting",
+  "/info/page": "/info",
+  "/order-demand/page": "/order-demand",
+  "/page": "/",
+  "/product/page": "/product",
+  "/role/page": "/role",
+  "/rss/page": "/rss",
+  "/habit/page": "/habit",
+  "/habit/manage/page": "/habit/manage",
+  "/habit/record/page": "/habit/record",
+  "/task/page": "/task"
+}
