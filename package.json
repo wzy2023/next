@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "start": "cd ./standalone/persons/app && node server.js"
+    "start": "cd ./.next/standalone/persons/app && node server.js"
   },
   "type": "commonjs"
 }
