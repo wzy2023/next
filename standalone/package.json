@@ -1,0 +1,16 @@
+{
+  "name": "work",
+  "private": true,
+  "version": "1.0.0",
+  "workspaces": [
+    "libs/*",
+    "persons/*",
+    "products/*",
+    "uis/*"
+  ],
+  "scripts": {
+    "clean": "rm -rf node_modules && lerna clean --yes",
+    "bootstrap": "bun install",
+    "re-install": "npm run clean && npm run bootstrap"
+  }
+}

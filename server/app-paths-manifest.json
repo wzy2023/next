@@ -1,0 +1,21 @@
+{
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/api/trpc/[trpc]/route": "app/api/trpc/[trpc]/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/error/page": "app/auth/error/page.js",
+  "/auth/new-user/page": "app/auth/new-user/page.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/auth/unauthorized/page": "app/auth/unauthorized/page.js",
+  "/buttons/[[...rest]]/page": "app/buttons/[[...rest]]/page.js",
+  "/collecting/page": "app/collecting/page.js",
+  "/info/page": "app/info/page.js",
+  "/order-demand/page": "app/order-demand/page.js",
+  "/page": "app/page.js",
+  "/product/page": "app/product/page.js",
+  "/role/page": "app/role/page.js",
+  "/rss/page": "app/rss/page.js",
+  "/habit/page": "app/habit/page.js",
+  "/habit/manage/page": "app/habit/manage/page.js",
+  "/habit/record/page": "app/habit/record/page.js",
+  "/task/page": "app/task/page.js"
+}
